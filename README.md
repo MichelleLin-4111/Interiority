@@ -9,6 +9,16 @@ The repository is organized to support two goals:
 1. Reproduce the main analyses and manuscript figures from the released processed data.
 2. Preserve the historical research workflow and intermediate artifacts needed to understand how the final data were produced.
 
+## My Contributions (Michelle Lin)
+
+This project was conducted collaboratively at UC Berkeley. My contributions included:
+
+- **Research & Dataset Development:** Contributed to research topic ideation, dataset curation, annotation codebook development, and manual passage annotation.
+- **NLP & LLM Evaluation:** Conducted experiments evaluating large language models for three-level interiority classification and analyzed model performance.
+- **Code Organization & Reproducibility:** Organized and cleaned the research codebase for publication, including restructuring notebooks, consolidating analysis workflows, archiving legacy code, and improving documentation to support reproducibility.
+
+For the complete research methodology and findings, please refer to the associated paper.
+
 ## Quick start
 
 The main paper analyses can be reproduced from the processed data included in this repository. They do not require rerunning BookNLP, model training, or Gemini inference.
